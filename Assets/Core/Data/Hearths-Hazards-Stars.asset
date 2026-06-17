@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 04314f494dcbb87ef86741c74c40f506, type: 3}
+  m_Name: Hearths-Hazards-Stars
+  m_EditorClassIdentifier: Assembly-CSharp::LevelDefinition
+  levels:
+  - {fileID: 292883294061645321, guid: cb40847882bbc644992a6906b8e8469f, type: 3}
+  - {fileID: 292883294061645321, guid: 953b560b934d0d80a8089763e9a1b77e, type: 3}
+  - {fileID: 292883294061645321, guid: 352891a7530e6e4f3b7556e0bc315f13, type: 3}
